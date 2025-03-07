@@ -1,0 +1,77 @@
+body{
+  background-color: rgba(243, 238, 233, 0.719) !important;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-size: 23px;
+    text-align: center;
+    
+}
+  #one{
+    color: rgb(24, 10, 228);
+    display: inline;
+  }
+  #two{
+    color: blue;
+    display: inline;
+    font-size: 100px;
+  }
+  #three{
+
+    color: rgb(21, 21, 22);
+    display: inline;
+    font-size: 100px
+    ;
+
+
+  }
+  #four{
+    color: rgb(196, 160, 31);
+    display: inline;
+  }
+  #five{
+    display: inline;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px;}
+    #five:hover{
+      background-color: rgb(214, 13, 6);
+    }
+    
+  
+  #six{
+    display: inline;
+    background-color: azure;
+    color: black;
+    border-radius: 20px;
+    
+
+  }
+  #six:hover{
+    background-color: rgb(219, 13, 13);
+  }
+  .text{
+    margin-top: 150px;
+    margin-left: 20px;
+
+  }
+  .img2{
+    position: absolute;
+    left: 800px;
+    top: 150px;
+  }
+  img{
+    border-radius: 360%;
+  }
+  #L{
+    list-style-type: none;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-top: 20px;
+    color: blueviolet;
+  }
+  li a{
+    text-decoration: none;
+  }
