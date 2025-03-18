@@ -1,18 +1,26 @@
 body{
-    background-color: rgb(184, 187, 187);
+    background-color: rgb(17, 226, 226);
 }
-
 ul{
-    list-style: none;
     display: flex;
     justify-content: space-around;
-    margin-left: 200px;
-    margin-right: 200px;
-    text-decoration: none;
+    list-style-type: none;
+    font-size: 23px;
+    text-align: center;
 
+}
+#L{
+    list-style-type: none;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-top: 20px;
+    color: blueviolet;
 }
 #pic{
     height: 200px;
     width: 200px;
     border-radius: 360%;
 }
+li a{
+    text-decoration: none;
+  }

@@ -1,0 +1,28 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-size: 23px;
+    text-align: center;
+}
+    li a{
+        text-decoration: none;
+      }
+      #L{
+        list-style-type: none;
+        font-weight: bolder;
+        font-size: x-large;
+        margin-top: 20px;
+        color: blueviolet;
+      }
+      .he{
+        color: rgb(128, 117, 117);
+      }
+      #img3{
+        width: 250px;
+        height: 250px;
+      }
+      #a2,#a3,#a4,#a5,#a6{
+        height: 200px;
+        width: 300px;
+      }

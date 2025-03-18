@@ -22,11 +22,8 @@ ul{
 
     color: rgb(21, 21, 22);
     display: inline;
-    font-size: 100px
-    ;
-
-
-  }
+    font-size: 100px;
+    }
   #four{
     color: rgb(196, 160, 31);
     display: inline;
@@ -37,7 +34,7 @@ ul{
     color: aliceblue;
     border-radius: 20px;}
     #five:hover{
-      background-color: rgb(214, 13, 6);
+      background-color: rgb(45, 74, 138);
     }
     
   
@@ -50,18 +47,11 @@ ul{
 
   }
   #six:hover{
-    background-color: rgb(219, 13, 13);
+    background-color: rgb(16, 40, 173);
   }
-  .text{
-    margin-top: 150px;
-    margin-left: 20px;
 
-  }
-  .img2{
-    position: absolute;
-    left: 800px;
-    top: 150px;
-  }
+
+  
   img{
     border-radius: 360%;
   }
